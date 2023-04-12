@@ -1,10 +1,15 @@
 <?php
 /**
  * Plugin Name: Elatax
- * Description: A custom Elementor widget to display taxonomy terms with the styling and layout options similar to the Elementor Posts widget.
+ * Plugin URI: https:nabaleka.com
+ * Description: A custom Elementor widget to display taxonomy terms on Elementor.
  * Version: 1.0
- * Author: Ammanulah
- * Author URI: https://nabalela.com
+ * Author: Ammanulah Emmanuel
+ * Requires at least: 5.9
+ * Requires PHP: 5.6
+ * License: GPL-2.0+
+ * License URI: http://www.gnu.org/licenses/gpl-2.0.txt
+ * Text Domain: andika
  */
 
  if (!defined('ABSPATH')) {

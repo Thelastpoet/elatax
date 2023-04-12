@@ -1,6 +1,6 @@
 # Elatax
 
-Elatax is a custom Elementor widget that allows you to display taxonomy terms with styling and layout options similar to the Elementor Posts widget.
+Elatax is a customizable Elementor widget that enables you to showcase any taxonomy terms in Elementor. With Elatax, you can easily and quickly display your taxonomy terms in an intuitive and visually appealing way.
 
 ## Requirements
 
