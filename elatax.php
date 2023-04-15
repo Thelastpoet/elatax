@@ -23,7 +23,7 @@ function elatax_load_plugin() {
     }
 
     add_action('elementor/init', function() {
-        require_once(plugin_dir_path(__FILE__) . 'elatax-widget.php');
+        require_once(plugin_dir_path(__FILE__) . 'widgets/elatax-widget.php');
         add_action('elementor/widgets/widgets_registered', 'register_elatax_widget');
     });
 }
